@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\rodrigo.paroli\Documents\Alura\SOLID\.metadata\.plugins\org.eclipse.jdt.core
+3248751189.index
+3297246424.index
+1865797976.index

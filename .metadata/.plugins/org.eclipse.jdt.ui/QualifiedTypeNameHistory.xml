@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.Chromaticity"/>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.model.Cargo"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.ValidacaoException"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.model.Funcionario"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.model.DadosPessoais"/>
+</qualifiedTypeNameHistroy>
